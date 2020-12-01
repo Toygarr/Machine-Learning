@@ -1,4 +1,3 @@
-# Machine-Learning
 
 # If you cannot display .ipynb in github use my github link of code with this site: https://nbviewer.jupyter.org
 
